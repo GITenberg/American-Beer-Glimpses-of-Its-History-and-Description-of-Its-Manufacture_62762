@@ -1,5 +1,8 @@
 _repo: American-Beer-Glimpses-of-Its-History-and-Description-of-Its-Manufacture_62762
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62762-h/images/cover.jpg
 creator:
   author:
     agent_name: Thomann, G. (Gallus)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '52109'
     url: http://www.gutenberg.org/2009/agents/52109
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62762#American-Beer-Glimpses-of-Its-History-and-Description-of-Its-Manufacture
 gutenberg_issued: '2020-07-26'
 gutenberg_type: Text
 identifiers:
